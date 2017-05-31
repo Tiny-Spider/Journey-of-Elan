@@ -1,0 +1,8 @@
+/bin
+/lib
+/.temp
+/.idea
+*.iml
+Thumbs.db
+.DS_Store
+.mcover
